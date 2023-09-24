@@ -1,6 +1,3 @@
-/**
- * PairSum
- */
 public class ArrayBasic {
     static void arraysum(int[] arr){
         int sum = 0;
